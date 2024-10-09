@@ -1,0 +1,5 @@
+vpc_id        = "vpc-0b276910036e846fe"
+instance_type = "t2.large"
+ami           = "ami-0fff1b9a61dec8a5f"
+key_pair      = "my-server"
+subnet_id     = "subnet-084d0f3fe2d48fcae"
